@@ -2,8 +2,7 @@
 
 	
 /*  code developed by Anish.
- 	http://anishmalias.url.ph/
-	http://myprofile.zz.mu
+ 	http://codehints.in
 */
 
 	$(function(){
